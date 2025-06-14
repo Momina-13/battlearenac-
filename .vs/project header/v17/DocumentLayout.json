@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\project header\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\BinarySaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\BinarySaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\HitBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\HitBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Attack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Attack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|D:\\visual studio projects\\project header\\project header\\HitBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB60A055-2674-41CB-9499-E98690DEB6A0}|project header\\project header.vcxproj|solutionrelative:project header\\HitBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Game.h",
+              "RelativeDocumentMoniker": "project header\\Game.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Game.h",
+              "RelativeToolTip": "project header\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:52:56.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Character.cpp",
+              "RelativeDocumentMoniker": "project header\\Character.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Character.cpp",
+              "RelativeToolTip": "project header\\Character.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T13:53:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logger.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Logger.h",
+              "RelativeDocumentMoniker": "project header\\Logger.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Logger.h",
+              "RelativeToolTip": "project header\\Logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:50:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attack.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Attack.h",
+              "RelativeDocumentMoniker": "project header\\Attack.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Attack.h",
+              "RelativeToolTip": "project header\\Attack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:50:36.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HitBox.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\HitBox.h",
+              "RelativeDocumentMoniker": "project header\\HitBox.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\HitBox.h",
+              "RelativeToolTip": "project header\\HitBox.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:47:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Character.h",
+              "RelativeDocumentMoniker": "project header\\Character.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Character.h",
+              "RelativeToolTip": "project header\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:48:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BinarySaver.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\BinarySaver.h",
+              "RelativeDocumentMoniker": "project header\\BinarySaver.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\BinarySaver.h",
+              "RelativeToolTip": "project header\\BinarySaver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:51:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Utils.h",
+              "RelativeDocumentMoniker": "project header\\Utils.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Utils.h",
+              "RelativeToolTip": "project header\\Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T12:21:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Player.h",
+              "RelativeDocumentMoniker": "project header\\Player.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Player.h",
+              "RelativeToolTip": "project header\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:48:25.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\main.cpp",
+              "RelativeDocumentMoniker": "project header\\main.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\main.cpp",
+              "RelativeToolTip": "project header\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:53:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Utils.cpp",
+              "RelativeDocumentMoniker": "project header\\Utils.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Utils.cpp",
+              "RelativeToolTip": "project header\\Utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T12:21:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Level.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Level.h",
+              "RelativeDocumentMoniker": "project header\\Level.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Level.h",
+              "RelativeToolTip": "project header\\Level.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:51:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attack.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Attack.cpp",
+              "RelativeDocumentMoniker": "project header\\Attack.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Attack.cpp",
+              "RelativeToolTip": "project header\\Attack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:50:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Board.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Board.h",
+              "RelativeDocumentMoniker": "project header\\Board.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Board.h",
+              "RelativeToolTip": "project header\\Board.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:47:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Game.cpp",
+              "RelativeDocumentMoniker": "project header\\Game.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Game.cpp",
+              "RelativeToolTip": "project header\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:52:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Enemy.h",
+              "RelativeDocumentMoniker": "project header\\Enemy.h",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Enemy.h",
+              "RelativeToolTip": "project header\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T11:49:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Enemy.cpp",
+              "RelativeDocumentMoniker": "project header\\Enemy.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Enemy.cpp",
+              "RelativeToolTip": "project header\\Enemy.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:50:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Level.cpp",
+              "RelativeDocumentMoniker": "project header\\Level.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Level.cpp",
+              "RelativeToolTip": "project header\\Level.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:51:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Player.cpp",
+              "RelativeDocumentMoniker": "project header\\Player.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Player.cpp",
+              "RelativeToolTip": "project header\\Player.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:48:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Logger.cpp",
+              "RelativeDocumentMoniker": "project header\\Logger.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Logger.cpp",
+              "RelativeToolTip": "project header\\Logger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:50:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HitBox.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\HitBox.cpp",
+              "RelativeDocumentMoniker": "project header\\HitBox.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\HitBox.cpp",
+              "RelativeToolTip": "project header\\HitBox.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:47:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "D:\\visual studio projects\\project header\\project header\\Board.cpp",
+              "RelativeDocumentMoniker": "project header\\Board.cpp",
+              "ToolTip": "D:\\visual studio projects\\project header\\project header\\Board.cpp",
+              "RelativeToolTip": "project header\\Board.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAkwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T11:47:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
