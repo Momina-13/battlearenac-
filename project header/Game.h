@@ -30,4 +30,4 @@ public:
     void showEnding();
 };
 
-#endif // GAME_H
+#endif
