@@ -2,9 +2,10 @@
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
+using namespace std;
 
 Board::Board() : numHealthBoxes(0), numBombBoxes(0) {
-    // Initialize grid
+    
     for (int i = 0; i < BOARD_SIZE; i++) {
         for (int j = 0; j < BOARD_SIZE; j++) {
             grid[i][j] = '.';
@@ -17,7 +18,7 @@ Board::Board() : numHealthBoxes(0), numBombBoxes(0) {
 
 void Board::generateHealthBoxes() {
     numHealthBoxes = 0;
-    // Generate 3-5 random health boxes
+   
     int numBoxes = 3 + rand() % 3;
     for (int i = 0; i < numBoxes; i++) {
         int x, y;
@@ -41,7 +42,7 @@ void Board::generateHealthBoxes() {
 
 void Board::generateBombBoxes() {
     numBombBoxes = 0;
-    // Generate 2-4 random bomb boxes
+   
     int numBoxes = 2 + rand() % 3;
     for (int i = 0; i < numBoxes; i++) {
         int x, y;
@@ -64,19 +65,16 @@ void Board::generateBombBoxes() {
 }
 
 void Board::updateGrid() {
-    // Clear grid
     for (int i = 0; i < BOARD_SIZE; i++) {
         for (int j = 0; j < BOARD_SIZE; j++) {
             grid[i][j] = '.';
         }
     }
 
-    // Place health boxes
     for (int i = 0; i < numHealthBoxes; i++) {
         grid[healthBoxX[i]][healthBoxY[i]] = 'H';
     }
 
-    // Place bomb boxes
     for (int i = 0; i < numBombBoxes; i++) {
         grid[bombBoxX[i]][bombBoxY[i]] = 'B';
     }
@@ -132,7 +130,6 @@ void Board::removeHealthBox(int x, int y) {
 void Board::removeBombBox(int x, int y) {
     for (int i = 0; i < numBombBoxes; i++) {
         if (bombBoxX[i] == x && bombBoxY[i] == y) {
-            // Shift remaining boxes
             for (int j = i; j < numBombBoxes - 1; j++) {
                 bombBoxX[j] = bombBoxX[j + 1];
                 bombBoxY[j] = bombBoxY[j + 1];
@@ -145,29 +142,29 @@ void Board::removeBombBox(int x, int y) {
 }
 
 void Board::displayBoard(int playerX, int playerY, int enemyX, int enemyY) const {
-    std::cout << "\n=== GAME BOARD ===\n";
-    std::cout << "  ";
+    cout << "\n=== GAME BOARD ===\n";
+    cout << "  ";
     for (int j = 0; j < BOARD_SIZE; j++) {
-        std::cout << j << " ";
+        cout << j << " ";
     }
-    std::cout << "\n";
+    cout << "\n";
 
     for (int i = 0; i < BOARD_SIZE; i++) {
-        std::cout << i << " ";
+        cout << i << " ";
         for (int j = 0; j < BOARD_SIZE; j++) {
             if (i == playerX && j == playerY) {
-                std::cout << "P ";
+                cout << "P ";
             }
             else if (i == enemyX && j == enemyY) {
-                std::cout << "E ";
+                cout << "E ";
             }
             else {
-                std::cout << grid[i][j] << " ";
+                cout << grid[i][j] << " ";
             }
         }
-        std::cout << "\n";
+        cout << "\n";
     }
-    std::cout << "Legend: P=Player, E=Enemy, H=Health+10, B=Bomb-10, .=Empty\n\n";
+    cout << "Legend: P=Player, E=Enemy, H=Health+10, B=Bomb-10, .=Empty\n\n";
 }
 
 bool Board::isValidPosition(int x, int y) const {

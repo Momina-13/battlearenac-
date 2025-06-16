@@ -3,6 +3,8 @@
 #include "Game.h"
 #include "utils.h"
 
+using namespace std;
+
 int main()
 {
 
@@ -12,5 +14,6 @@ int main()
     game.runGame();
 
     return 0;
+
 
 }

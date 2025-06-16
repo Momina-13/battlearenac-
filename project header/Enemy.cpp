@@ -8,16 +8,16 @@ Enemy::Enemy(int difficultyLevel, int x, int y)
 
 int Enemy::calculateAttackDamage(const Character& player) const {
     int distance = getDistanceTo(player);
-    if (distance == 0) return 0; // Can't attack if on same position
+    if (distance == 0) return 0; 
 
-    // Base damage 15, reduced by distance
+ 
     int damage = 15 - (distance - 1) * 2;
-    return max(damage, 3); // Minimum 3 damage
+    return max(damage, 3); 
 }
 
 bool Enemy::attack(Character& player) {
     int distance = getDistanceTo(player);
-    if (distance <= 3) { // Maximum attack range
+    if (distance <= 3) { 
         int damage = calculateAttackDamage(player);
         player.takeDamage(damage);
         std::cout << "Enemy attack deals " << damage << " damage! (Distance: " << distance << ")\n";

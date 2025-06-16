@@ -14,4 +14,4 @@ public:
     int getRadius() const;
 };
 
-#endif // HITBOX_H
+#endif 

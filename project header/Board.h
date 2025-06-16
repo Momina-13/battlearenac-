@@ -30,4 +30,4 @@ public:
     static int getBoardSize();
 };
 
-#endif // BOARD_H
+#endif 

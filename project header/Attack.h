@@ -15,4 +15,4 @@ public:
     bool performAttack(Character& defender);
 };
 
-#endif // ATTACK_H
+#endif 

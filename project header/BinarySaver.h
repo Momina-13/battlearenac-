@@ -11,7 +11,7 @@ public:
     T loadFromFile(const std::string& filename);
 };
 
-// Template implementation (must be in header file)
+
 template<typename T>
 void BinarySaver<T>::saveToFile(const T& obj, const std::string& filename) {
     obj.save(filename);
@@ -24,4 +24,4 @@ T BinarySaver<T>::loadFromFile(const std::string& filename) {
     return obj;
 }
 
-#endif // BINARY_SAVER_H
+#endif 

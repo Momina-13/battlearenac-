@@ -1,4 +1,8 @@
-﻿  main.cpp
-  project header.vcxproj -> D:\visual studio projects\project header\x64\Debug\project header.exe
+﻿  Logger.cpp
+  Player.cpp
+  Utils.cpp
+  main.cpp
+  Generating Code...
+  project header.vcxproj -> D:\visual studio projects\BATTLE ARENA C++CODE\x64\Debug\project header.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

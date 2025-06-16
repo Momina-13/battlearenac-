@@ -2,9 +2,10 @@
 #include <iostream>
 #include <cstdlib>
 
+using namespace std;
+
 Level::Level(int levelNumber, Player& player)
     : levelNumber(levelNumber), player(player), enemy(levelNumber, 5, 5), board() {
-    // Ensure player and enemy start at least 2 blocks away
     ensureMinimumDistance();
 }
 
@@ -29,7 +30,7 @@ Board& Level::getBoard() {
 }
 
 void Level::initLevel() {
-    std::cout << "Level " << levelNumber << " Start!\n";
+    cout << "Level " << levelNumber << " Start!\n";
     board.displayBoard(player.getX(), player.getY(), enemy.getX(), enemy.getY());
 }
 

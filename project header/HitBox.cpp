@@ -1,5 +1,6 @@
 #include "HitBox.h"
 #include <cmath>
+using namespace std;
 
 HitBox::HitBox(int x, int y, int r) : centerX(x), centerY(y), radius(r) {}
 

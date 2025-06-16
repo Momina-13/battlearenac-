@@ -1,7 +1,8 @@
 #include "Utils.h"
 
-// Simple string to int conversion function
-int stringToInt(const std::string& str) {
+using namespace std;
+
+int stringToInt(const string& str) {
     int result = 0;
     for (int i = 0; i < str.length(); i++) {
         if (str[i] >= '0' && str[i] <= '9') {
@@ -11,11 +12,10 @@ int stringToInt(const std::string& str) {
     return result;
 }
 
-// Simple int to string conversion function
-std::string intToString(int value) {
+string intToString(int value) {
     if (value == 0) return "0";
 
-    std::string result = "";
+    string result = "";
     bool negative = false;
     if (value < 0) {
         negative = true;

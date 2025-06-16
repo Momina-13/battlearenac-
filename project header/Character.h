@@ -28,4 +28,4 @@ public:
     int min(int a, int b) const;
 };
 
-#endif // CHARACTER_H
+#endif 

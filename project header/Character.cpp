@@ -3,6 +3,8 @@
 #include <sstream>
 #include <cmath>
 
+using namespace std;
+
 Character::Character(int maxHp, int x, int y, int r)
     : maxHealth(maxHp), health(maxHp), x(x), y(y), hitbox(x, y, r) {
 }
@@ -23,7 +25,7 @@ bool Character::isAlive() const {
 
 bool Character::moveTo(int newX, int newY, Board& board) {
     if (!board.isValidPosition(newX, newY)) {
-        std::cout << "Invalid position! Must be within 0-9 range.\n";
+        cout << "Invalid position! Must be within 0-9 range.\n";
         return false;
     }
 
@@ -55,8 +57,8 @@ int Character::getY() const {
     return y;
 }
 
-std::string Character::getPosition() const {
-    std::ostringstream oss;
+string Character::getPosition() const {
+    ostringstream oss;
     oss << "(" << x << ", " << y << ")";
     return oss.str();
 }
@@ -64,7 +66,7 @@ std::string Character::getPosition() const {
 int Character::getDistanceTo(const Character& other) const {
     int dx = abs(x - other.x);
     int dy = abs(y - other.y);
-    return (dx > dy) ? dx : dy; // Maximum of dx and dy (chess-like movement)
+    return (dx > dy) ? dx : dy;
 }
 
 int Character::max(int a, int b) const {

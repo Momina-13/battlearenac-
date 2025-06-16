@@ -15,4 +15,4 @@ public:
     void logMessage(const std::string& msg);
 };
 
-#endif // LOGGER_H
+#endif
